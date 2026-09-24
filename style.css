@@ -222,6 +222,11 @@ html, body {
   padding: 40px 25px 15px;
   height: 200px;
 }
+.section2 .art1:hover{
+  background-color: #5C7A89;
+  transition:  1.5s;
+}
+
 .section2 .art1 h4{
   color: #2c4058;
   margin-bottom: 15px;
